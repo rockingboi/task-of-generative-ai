@@ -1,3 +1,5 @@
+JOURNEY OF GENERATIVE AI
+
 GPT-2 Fine-Tuning with Hugging Face Transformers
 This project demonstrates how to fine-tune OpenAI's GPT-2 model on a small dataset (wikitext-2) using the Hugging Face Transformers library. It includes steps for preprocessing, training, and text generation using the fine-tuned model.
 
@@ -41,7 +43,7 @@ The fine-tuned model and tokenizer are saved locally in ./fine_tuned_gpt2 for re
 I created this project while learning how to use Generative AI. My goal was to understand the process of fine-tuning large language models like GPT-2. Working on this gave me practical experience in how these models operate behind the scenes and how they can be adapted for specific tasks using transfer learning.
 
 🔗 Resources
-Hugging Face Transformers
 
+Hugging Face Transformers
 Wikitext Dataset
 
